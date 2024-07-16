@@ -1,4 +1,24 @@
+## Result
+Hello Guys i just took a extra time to download the SDK and test our code
+so i am sending it.
+
+I just added some changes:
+1. Added Dependency Injection
+2. Fixed the Price Regrex i was using.
+
+These are the changes:
+### 1. Main Screen
+![main_screen.png](files%2Fmain_screen.png)
+
+### 2. Checkers
+![checkers_test.png](files%2Fcheckers_test.png)
+
+### 3. Sending Data
+![send_data.png](files%2Fsend_data.png)
+
+### Challenge Descriptiom
 You are tasked with implementing a simple ad posting flow for a seller.
+
 The application should allow a user to input an ad's name, price, and description,
  validate these inputs, and then simulate sending this data to a server via a fake API request.
 
