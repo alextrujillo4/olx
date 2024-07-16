@@ -1,12 +1,11 @@
 ## Result
-Hello Guys i just took a extra time to download the SDK and test our code
-so i am sending it.
+Hello Guys i just took a extra time to download the SDK and test our code.
 
-I just added some changes:
+Changes: added:
 1. Added Dependency Injection
 2. Fixed the Price Regrex i was using.
 
-These are the changes:
+Scenarios:
 ### 1. Main Screen
 ![main_screen.png](files%2Fmain_screen.png)
 
@@ -16,7 +15,7 @@ These are the changes:
 ### 3. Sending Data
 ![send_data.png](files%2Fsend_data.png)
 
-### Challenge Descriptiom
+### Challenge Description
 You are tasked with implementing a simple ad posting flow for a seller.
 
 The application should allow a user to input an ad's name, price, and description,
